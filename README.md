@@ -2,7 +2,7 @@
 
 This repository contains coursework, including programming assignments and lecture handouts, for the course **Program Design II (PD2)** offered by the Department of Computer Science and Information Engineering at **National Cheng Kung University (NCKU)**.
 
-## 🧠 Course Topics
+## Course Topics
 
 The course covers intermediate to advanced C++ programming concepts, including but not limited to:
 
