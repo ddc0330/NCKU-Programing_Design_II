@@ -19,7 +19,7 @@ The course covers intermediate to advanced C++ programming concepts, including b
   - Encapsulation & Abstraction
   - Virtual functions and dynamic binding
 
-## 📁 Repository Structure
+## Repository Structure
 
 NCKU-Programing_Design_II/
 │
